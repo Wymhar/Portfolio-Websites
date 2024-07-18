@@ -51,7 +51,7 @@ const exp = [
     cardImage: "assets/images/experience-page/RUN logo.jpg",
     place: "Run",
     time: "(Mar 2017 - 2021)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: " <li>Conducting detailed gait and running analyses using advanced technology.</li><li>Assessing biomechanics and identifying abnormalities in movement patterns.</li><li>Providing personalized recommendations for improving running efficiency and reducing injury risk.</li><li>Developing tailored exercise and rehabilitation programs.</li><li>Collaborating with healthcare professionals such as physical therapists and sports medicine specialists.</li><li>Educating clients on proper running techniques and footwear choices.</li><li>Maintaining detailed records of assessments and progress.</li><li>Staying current with the latest research and advancements in gait and running analysis.</li>",
   },
   {
     title: "Event Managing",
