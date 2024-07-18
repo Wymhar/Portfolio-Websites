@@ -103,16 +103,16 @@ const volunteershipcards = [
       "Responsible for handling the projects given by the University of Stellenbosch Tygerberg Medical Campus to raise funds through events.",
   },
   {
-    title: "StudentCode-in 2020",
+    title: "Rotary Member 2020",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Volunteering for and organizing charity events.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Student Mentor and Advisor 2024",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Providing guidance and companionship to newly enrolled students at the University of Stellenbosch Tygerberg Medical Campus",
   },
   {
     title: "Hakin-Codes",
