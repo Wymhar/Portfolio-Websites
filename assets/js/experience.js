@@ -48,7 +48,7 @@ const exp = [
   },
    {
     title: "Gait Running Analysis Specialist",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/RUN logo.jpg",
     place: "Run",
     time: "(Mar 2017 - 2021)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
