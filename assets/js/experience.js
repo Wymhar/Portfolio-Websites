@@ -98,7 +98,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "2023 Osler House Committee Member ",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/1Osler Logo 2024.jpg",
     description:
       "Responsible for handling the projects given by the University of Stellenbosch Tygerberg Medical Campus to raise funds through events.",
   },
