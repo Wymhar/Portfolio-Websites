@@ -110,7 +110,7 @@ const volunteershipcards = [
   },
   {
     title: "Student Mentor and Advisor 2024",
-    cardImage: "assets/images/experience-page/3.jpg",
+    cardImage: "assets/images/experience-page/Stellenbosch-University-logo-new.png",
     description:
       "Providing guidance and companionship to newly enrolled students at the University of Stellenbosch Tygerberg Medical Campus",
   },
