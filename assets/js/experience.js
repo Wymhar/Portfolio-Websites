@@ -114,12 +114,6 @@ const volunteershipcards = [
     description:
       "Providing guidance and companionship to newly enrolled students at the University of Stellenbosch Tygerberg Medical Campus",
   },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
 ];
 
 const showCards = () => {
