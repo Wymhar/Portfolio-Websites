@@ -3,13 +3,13 @@
 html[data-theme="light"] {
   --col-icon: black;
   --col-bd-radius:rgb(2, 2, 2);
-  --col-box-shadow:#000080 2px 2px 4px, 
+  --col-box-shadow:#000000 2px 2px 4px, 
   #4D4D4D -2px -2px 4px;
  --col-box-shadow-hover:inset #8a7373 2px 2px 4px, 
  inset #4D4D4D -2px -2px 4px;
   --col-bd-icon:transparent;
   --bg-icon: #fff;
-   --bg1-color: #fff;
+   --bg1-color:  #000080;
   --col-icon-dribbble: #ea4c89;
   --col-icon-linkedin: #0e76a8;
   --col-icon-kaggle: #41aff3;  
