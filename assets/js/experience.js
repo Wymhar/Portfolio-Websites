@@ -58,7 +58,7 @@ const exp = [
     cardImage: "assets/images/experience-page/DGC logo.png",
     place: "Durbanville Golf Club",
     time: "(Mar 2016 - 2018)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Assisting with the planning and coordination of golf tournaments and events.</li><li>Liaising with vendors, staff, and clients to ensure event requirements are met.</li><li>Managing event logistics, including scheduling, setup, and teardown.</li><li>Ensuring compliance with club policies and event regulations.</li><li>Providing support during events to address any issues or changes.</li><li>Handling event promotions and marketing under supervision.</li>",
   },
 ];
 
