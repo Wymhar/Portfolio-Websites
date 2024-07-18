@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Paarl Prov Hosp.png",
     place: "Paarl Provincial Hospital",
     time: "(Aug 2023 - Present)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: " <li>Preparing patients for surgery.</li><li>Assisting surgeons during operations.</li><li>Monitoring patients' vital signs during procedures.</li>   <li>Providing post-operative care and monitoring recovery.</li><li>Ensuring a sterile environment in the operating room.</li><li>Managing surgical instruments and supplies.</li><li>Educating patients and families about surgical procedures and post-operative care.</li><li>Documenting surgical procedures and patient information.</li>",
   },
    {
     title: "Internal Medicine Nursing",
