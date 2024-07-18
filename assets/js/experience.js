@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Paarl Prov Hosp.png",
     place: "Klapmuts Clinic",
     time: "(Feb 2023 - Jul 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Providing basic healthcare services to patients.</li><li>Administering medications and vaccinations.</li><li>Conducting health screenings and assessments.</li><li>Educating patients about health maintenance and disease prevention.</li><li>Assisting with minor medical procedures.</li><li>Maintaining patient records and documentation.</li><li>Coordinating with other healthcare professionals for comprehensive patient care.</li><li>Offering emotional support and counseling to patients.</li>",
   },
   {
     title: "Surgical Nursing",
