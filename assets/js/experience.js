@@ -104,7 +104,7 @@ const volunteershipcards = [
   },
   {
     title: "Rotary Member 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    cardImage: "assets/images/experience-page/rotary image.jpg",
     description:
       "Volunteering for and organizing charity events.",
   },
