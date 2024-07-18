@@ -117,7 +117,7 @@ let footer = $(`
       <div class="quotes"    style="text-align:center;">
        <div class="center">
           <div>
-              <img src="assets/images/bonnet-nurse-svgrepo-com.svg" alt="" class="rounded-circle" height="200" width="200">
+              <img src="assets/images/bonnet-nurse-svgrepo-com.svg" alt="" class="rounded-circle" height="80" width="80">
           </div>
       </div>
       <!--SVG code for quote-left icon-->
